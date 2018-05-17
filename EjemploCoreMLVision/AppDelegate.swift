@@ -1,11 +1,3 @@
-//
-//  AppDelegate.swift
-//  PokerFace
-//
-//  Created by Juan Gabriel Gomila Salas on 7/7/17.
-//  Copyright © 2017 Frogames. All rights reserved.
-//
-
 import UIKit
 
 @UIApplicationMain
